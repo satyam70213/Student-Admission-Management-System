@@ -1,0 +1,14 @@
+D:\Sem 5\DotNet\code\MyProject\bin\Debug\net10.0\MyProject.exe
+D:\Sem 5\DotNet\code\MyProject\bin\Debug\net10.0\MyProject.deps.json
+D:\Sem 5\DotNet\code\MyProject\bin\Debug\net10.0\MyProject.runtimeconfig.json
+D:\Sem 5\DotNet\code\MyProject\bin\Debug\net10.0\MyProject.dll
+D:\Sem 5\DotNet\code\MyProject\bin\Debug\net10.0\MyProject.pdb
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfoInputs.cache
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfo.cs
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\MyProject.csproj.CoreCompileInputs.cache
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\MyProject.dll
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\MyProject.pdb
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
+D:\Sem 5\DotNet\code\MyProject\obj\Debug\net10.0\ref\MyProject.dll
